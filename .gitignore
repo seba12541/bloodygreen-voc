@@ -1,0 +1,20 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS files (macOS specific)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# NOTE: Do NOT ignore the SQLite database (*.db) for this project.
+# bloodygreen_voc.db must be committed to GitHub so the hosted Streamlit Cloud app has the data.
